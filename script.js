@@ -14,7 +14,15 @@ var quotes = ["You smell bad and everyone talks about it behind your back",
               "No one will ever love you as much as you love sitting on the edge of your bed and stairing at the floor",
               "If you ever go on a vacation you'll probably get sick on the first day and have no fun the whole time, assface",
               "Gnomes sneak into your room while you sleep and spit in your mouth",
-              "Some pervert put a webcam in your house, but he stopped watching it because your so boring"
+              "Some pervert put a webcam in your house, but he stopped watching it because your so boring",
+              "Your mom called me and told me you were her least favorite. Not her least favorite child, her least favorite anything.",
+              "Scientists in Eastern Europe genetically engineered a horse to kick you in the nuts",
+              "You've had a piece of spinach caught in your teeth since May 17th, 2003",
+              "I paid all your childhood friends to hang out with you",
+              "In a scientific poll of likely voters conducted by PPP 58% of Americans said they want to push you into a muddy puddle",
+              "Hey, come on dude. Don't pee your pants. That's disgusting",
+              "The next time you tell yourself you should quit something because it's too hard you should just slam your hand in a car door instead",
+              "Somebody once told me the world was gonna roll me, but they were wrong. The world is gonna roll you. Because you're fat."
               ];
 var text = $('div');
 
